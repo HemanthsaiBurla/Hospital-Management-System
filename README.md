@@ -480,35 +480,47 @@ http://localhost:8080/home
 
 ## 🖼️ UI Screenshots
 
-### Home Screen  
-![Home Screen](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/Admin_dashboard.png)
+### HMS home Screen  
+![Home Screen](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/HMS_home.png)
 
-### Detailed Translation  
-![Detailed Translation](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/Admin_dashboard.png)
+### HMS home Screen2
+![Detailed Translation](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/HMS_home2.png)
 
-### Language Switch  
-![Language Switch](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/Admin_dashboard.png)
+### HMS home Screen3
+![Language Switch](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/HMS_home3.png)
 
-### Translation History  
-![Translation History](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/Admin_dashboard.png)
+### HMS dashboard
+![En-Hi Translation](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/HMS_dashboard.png)
 
-### English-Hindi Example  
+### Admin login
+![Translation History](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/Admin_login.png)
+
+### Admin dashboard
 ![En-Hi Translation](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/Admin_dashboard.png)
 
-### Home Screen  
-![Home Screen](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/Admin_dashboard.png)
+### Admin dashboard2
+![Home Screen](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/Admin_dashboard2.png)
 
-### Detailed Translation  
-![Detailed Translation](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/Admin_dashboard.png)
+### Admin manage role
+![Detailed Translation](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/Admin_manageRole.png)
 
-### Language Switch  
-![Language Switch](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/Admin_dashboard.png)
+### Developer contact
+![Language Switch](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/Developer_contact.png)
 
-### Translation History  
-![Translation History](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/Admin_dashboard.png)
+### Doctor dashboard
+![Translation History](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/Doctor_dashboard.png)
 
-### English-Hindi Example  
-![En-Hi Translation](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/Admin_dashboard.png)
+### Doctor edit patient
+![En-Hi Translation](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/Doctor_editPatient.png)
+
+### Doctor view patients
+![En-Hi Translation](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/Doctor_viewPatients.png)
+
+### Patient dashboard
+![En-Hi Translation](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/Patient_dashboard.png)
+
+### HMS aboutUs  
+![En-Hi Translation](https://github.com/HemanthsaiBurla/Hospital-Management-System/blob/main/UI_images/HMS_aboutUs.png)
 
 ---
 
